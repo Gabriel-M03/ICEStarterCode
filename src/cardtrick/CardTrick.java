@@ -40,30 +40,27 @@ public class CardTrick
             }
         }        
     }
-    /**
-     * IM DONE!! - Gabriel M.
+    /**.
      */
     private static void printInfo() 
     {
-        System.out.println("Congratulations, you guessed right!");
+         System.out.println("Congratulations, you guessed right!");
         System.out.println();
-
-        System.out.println("My name is Gabriel, but you can call me Gabe.");
+        
+        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
         System.out.println();
-
+        
         System.out.println("My career ambitions:");
         System.out.println("-- Be more active on LinkedIn");
-        System.out.println("-- Get into Sheridan COOP");
-        System.out.println("-- Graduate Sheridan");
-        System.out.println("-- Get into cyber security either for the government or corporate");
         System.out.println("-- Have a semester with no violations of academic integrity!");
-        System.out.println();
+	System.out.println();	
 
         System.out.println("My hobbies:");
-        System.out.println("-- Instruments/Music Production");
-        System.out.println("-- Sports/Working out");
-        System.out.println("-- Anime/Watching TV");
-        System.out.println("-- Driving");
-        System.out.println();
+        System.out.println("-- Investing");
+        System.out.println("-- Cooking");
+        System.out.println("-- Reading/Watching TV");
+        System.out.println("-- Riding my motorcycle");
+
+        System.out.println(); 
     }
 }
